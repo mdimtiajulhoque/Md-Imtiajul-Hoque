@@ -1,0 +1,6 @@
+{
+  "name": "Md. Imtiajul Hoque Rafi - Portfolio & Website Generator",
+  "description": "Personal developer portfolio and interactive showcase for Md. Imtiajul Hoque Rafi with live customization, dual Bengali/English language support, and one-click ZIP download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
